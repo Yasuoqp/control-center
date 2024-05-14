@@ -28,5 +28,5 @@
 ## Работа приложения
 
 ### 1. Создание задачи 
-    
+![alt](https://github.com/Yasuoqp/control-center/blob/main/readmeImg/creat-task.png)
 
