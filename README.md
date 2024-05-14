@@ -42,3 +42,4 @@
 >  + `action` при успешной отправки осуществляет  `redirect` на страницу  `draft-task`
 
 ### 2.Черновики `draft-task` 
+![alt](https://github.com/Yasuoqp/control-center/blob/main/readmeImg/draft-task.png)
