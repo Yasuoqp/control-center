@@ -66,3 +66,8 @@
 
 #### `completed-tasks`
 ![alt](https://github.com/Yasuoqp/control-center/blob/main/readmeImg/completed-tasks.png)
+
+
+### Краткое содержание: 
+  
+#### Приложение выпалняет роль админ панели для контроля и отслеживания процесса выполнения задачи а также для создания и редактирования новых задач
