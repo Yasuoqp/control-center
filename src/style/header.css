@@ -1,0 +1,15 @@
+.header-main {
+    flex: 1;
+    margin: auto;
+    max-width: 1200px;
+    font-size: 18px;
+    display: flex;
+}
+
+.link{
+    color: white;
+}
+
+.link-block {
+   padding: 0 15px;
+}

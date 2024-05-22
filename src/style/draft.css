@@ -1,0 +1,42 @@
+.mainDraftForm {
+
+}
+
+.inputDraft {
+    width: 16.6%;
+    border: 1px solid transparent;
+    outline: none;
+}
+
+.draftFormContainer {
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.inputDraft:focus {
+    outline: none;
+    border: solid 1px #036EB4;
+
+}
+
+.headerDraftForm {
+    display: flex;
+    position: relative;
+    color: rgba(0, 0, 0, 0.88);
+    height: 50px;
+    font-weight: 600;
+    text-align: start;
+    background: #fafafa;
+    border-bottom: 1px solid #f0f0f0;
+    transition: background 0.2s ease;
+    align-items: center;
+}
+
+.titleDraft {
+    width: 16.6%;
+    padding: 17px 17px;
+    border-right: 1px solid #f0f0f0;
+}
+
+button{
+margin-left: 1em;
+}
